@@ -1,0 +1,7 @@
+<view class='container'>
+  <image class='user-avatar' src='/images/y.jpg'></image>
+  <text class='user-name'>Hello,ChangJun@China</text>
+  <view>
+    <text class='text-tall' bindtap="onTap">开启小程序之旅</text>
+  </view>
+</view>
